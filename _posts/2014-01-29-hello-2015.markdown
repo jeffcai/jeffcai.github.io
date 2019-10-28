@@ -6,7 +6,8 @@ date:       2019-10-28 16:30:00
 author:     "Jeff Cai"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - life,career
+    - life
+    - career
 ---
 
 ## 新的开始
