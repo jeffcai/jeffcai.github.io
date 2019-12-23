@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "读书笔记 - 从产品到服务"
-subtitle:   " \"New Start!\""
+subtitle:   " \"Insights and experience from companies which have embraced the service economy\""
 date:       2020-01-01 10:30:00
 author:     "Jeff Cai"
 header-img: "img/post-bg-2015.jpg"
