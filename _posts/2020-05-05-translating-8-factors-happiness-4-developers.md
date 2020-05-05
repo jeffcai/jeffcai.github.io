@@ -17,7 +17,7 @@ tags:
 
 我最近看到Tanmay Vora的这篇草图笔记，真的引起了我的共鸣。作为一个开发者，它让我开始思考如何将其转化为开发者的生活和我们的幸福感。基于这个草图笔记，下面是应用在开发者生活中的八大幸福因素。1. 怨恨 埋藏怨恨.....。
 
-![8-factors-of-happiness](../img/8-factors-happiness-4-developers.png)
+![8-factors-of-happiness](/img/8-factors-happiness-4-developers.png)
 
 - 不要怨恨
 - 不要活在过去
